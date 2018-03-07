@@ -1,0 +1,19 @@
+{
+  "name": "fbkbot",
+  "version": "5.0.0",
+  "description": "",
+  "main": "FBK-Core.js",
+  "scripts": {
+    "start": "node FBK-Core.js"
+  },
+  "author": "Nazrin Ihksan",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "discord.js-musicbot-addon": "^1.10.2",
+    "fs": "0.0.1-security",
+    "opusscript": "0.0.6",
+    "snekfetch": "^4.0.0-rc.0",
+    "ytdl-core": "^0.20.1"
+  }
+}
